@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Socket Management jar file
+Implementation-Version: 1.0
+SocketManager: com.zeuschops.socketmanager
+

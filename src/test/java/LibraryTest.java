@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-import com.gaijin.socketmanager.SocketManager;
+import com.zeuschops.socketmanager.SocketManager;
 
 import static org.junit.Assert.*;
 
