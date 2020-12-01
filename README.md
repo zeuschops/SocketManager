@@ -11,3 +11,6 @@ I would have forced this project into another, but I wanted an easy way to strip
 
 ## Somehow this library still works
 I have been away from Java for a little while and things are getting a little fuzzy at best. While away, I forgot how to write Java code and had some issues with JDK 11 and JDK 12. With the release of JDK 13 this code is recently untested and I am headed back to work with JDK 8u231 for University. This project will currently remain ongoing but may end up with a branch for pre-JDK 9 in the (somewhat) near future.
+
+## Explanation
+This project mainly serves as generic reference to TCP/UDP/Encryption access for Java 9+. This has worked since JDK 9, but is not regularly updated so some items may need to update if you choose to utilize it.
